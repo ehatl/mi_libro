@@ -1,0 +1,15 @@
+---
+title: "Título del libro"
+author: "Autores"
+site: bookdown::bookdown_site
+documentclass: book
+url: 'https://https://ehatl.github.io/mi_libro/'
+github-repo: "ehatl.github.io/mi_libro"
+output:
+  bookdown::gitbook: default
+  
+---
+
+# Prefacio {-}
+
+Descripción del prefacio
